@@ -179,3 +179,4 @@ Students must submit:
 3. A screenshot showing the iPad/tablet layout working
 4. A working GitHub Pages link for the deployed movie portal
 5. Evidence that the same responsive design approach was applied to the personalized movie portal
+6. All screenshots must be decorated in the [README.md](README.md) file.
