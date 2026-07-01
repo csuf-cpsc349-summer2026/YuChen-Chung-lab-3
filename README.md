@@ -200,3 +200,34 @@ Students must submit:
 4. A working GitHub Pages link for the deployed movie portal
 5. Evidence that the same responsive design approach was applied to the personalized movie portal
 6. All screenshots must be decorated in the [README.md](README.md) file.
+
+## Yu-Chen Chung Sugmission Report
+# CPSC 349 Lab 3 – Responsive Movies Portal
+
+## Student
+Name: Your Name
+
+## GitHub Pages
+https://github.com/csuf-cpsc349-summer2026/YuChen-Chung-lab-3.git
+
+# Phone Layout
+
+![Phone Layout](images/Iphone1.png)
+![Phone Layout](images/Iphone2.png)
+
+The Movies Portal was tested on a phone-sized screen using Chrome DevTools. The responsive phone layout displays correctly without horizontal scrolling.
+
+# iPad/Tablet Layout
+
+![Tablet Layout](images/Ipad1.png)
+![Tablet Layout](images/Ipad2.png)
+
+The Movies Portal was tested on an iPad-sized screen using Chrome DevTools. The movie cards display in a two-column grid and the layout fits the screen properly.
+
+# Responsive Design
+
+The responsive design was implemented using CSS media queries.
+
+- Phone layout: max-width 640px
+- Tablet layout: max-width 1024px
+- Desktop layout remains unchanged.
