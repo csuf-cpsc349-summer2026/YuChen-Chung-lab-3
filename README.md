@@ -205,7 +205,7 @@ Students must submit:
 # CPSC 349 Lab 3 – Responsive Movies Portal
 
 ## Student
-Name: Your Name
+Name: Yu-Chen Chung
 
 ## GitHub Pages
 https://github.com/csuf-cpsc349-summer2026/YuChen-Chung-lab-3.git
