@@ -208,26 +208,4 @@ Students must submit:
 Name: Yu-Chen Chung
 
 ## GitHub Pages
-https://github.com/csuf-cpsc349-summer2026/YuChen-Chung-lab-3.git
-
-# Phone Layout
-
-![Phone Layout](images/Iphone1.png)
-![Phone Layout](images/Iphone2.png)
-
-The Movies Portal was tested on a phone-sized screen using Chrome DevTools. The responsive phone layout displays correctly without horizontal scrolling.
-
-# iPad/Tablet Layout
-
-![Tablet Layout](images/Ipad1.png)
-![Tablet Layout](images/Ipad2.png)
-
-The Movies Portal was tested on an iPad-sized screen using Chrome DevTools. The movie cards display in a two-column grid and the layout fits the screen properly.
-
-# Responsive Design
-
-The responsive design was implemented using CSS media queries.
-
-- Phone layout: max-width 640px
-- Tablet layout: max-width 1024px
-- Desktop layout remains unchanged.
+https://csuf-cpsc349-summer2026.github.io/YuChen-Chung-lab-3/

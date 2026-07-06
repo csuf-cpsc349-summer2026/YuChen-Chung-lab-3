@@ -198,13 +198,25 @@ img {
     margin: 0;
 }
 
-/* Makes movie posters the same size and shape. */
-.movie-card img {
+/* Makes movie posters and videos fit inside the movie cards. */
+.movie-card img,
+.movie-card video {
     width: 100%;
-    height: 300px;
-    object-fit: cover;
     border-radius: 8px;
     border: 1px solid #e1e5ea;
+    display: block;
+}
+
+/* Makes movie posters the same size and shape. */
+.movie-card img {
+    height: 300px;
+    object-fit: cover;
+}
+
+/* Makes movie videos fit neatly inside the card. */
+.movie-card video {
+    height: 180px;
+    object-fit: cover;
 }
 
 
@@ -382,10 +394,10 @@ footer a:focus-visible {
         grid-template-columns: 1fr;
     }
 
-    .movie-card img {
+    .movie-card img,
+    .movie-card video {
         width: min(100%, 250px);
         height: auto;
-        max-height: 420px;
         align-self: center;
     }
 }
@@ -408,6 +420,12 @@ footer a:focus-visible {
     .movie-card img {
         width: 100%;
         height: 300px;
+        object-fit: cover;
+    }
+
+    .movie-card video {
+        width: 100%;
+        height: 180px;
         object-fit: cover;
     }
 }
